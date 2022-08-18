@@ -1,0 +1,10 @@
+tranhalong
+dyTQgSHMddFn5xQw
+
+
+mongosh "mongodb+srv://cluster-workmanager-pro.egas8bj.mongodb.net/myFirstDatabase" --apiVersion 1 --username tranhalong
+
+
+mongodb+srv://tranhalong:<password>@cluster-workmanager-pro.egas8bj.mongodb.net/?retryWrites=true&w=majority
+
+mongodb+srv://tranhalong:dyTQgSHMddFn5xQw@cluster-workmanager-pro.egas8bj.mongodb.net/?retryWrites=true&w=majority
